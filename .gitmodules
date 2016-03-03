@@ -1,0 +1,3 @@
+[submodule "json2isatab_docker"]
+	path = json2isatab_docker
+	url = https://github.com/phnmnl/json2isatab_docker.git
